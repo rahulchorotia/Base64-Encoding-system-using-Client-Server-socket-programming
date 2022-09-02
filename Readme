@@ -1,0 +1,15 @@
+Application #3: Base64 encoding system using Client-Server socket programming
+submitted by -
+Rahul Chorotia 214101039
+Riki Rownier 214101040
+Prosenjit Biswas 214101038
+ 
+Instructions -
+1.Programming Language - C
+2.OS - Ubuntu 20.04.4 LTS 
+3.open terminal and run these commands
+	gcc server.c -o server
+	./server 8080
+4. again open terminal run these commands
+	gcc client.c -o client
+	./clinet 127.0.0.1 8080
